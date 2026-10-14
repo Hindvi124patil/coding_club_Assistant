@@ -1,0 +1,6 @@
+{
+  "name": "Coding Club Assistant",
+  "description": "An intelligent coding club mentor web application for college engineering students to master programming, debug code, practice DSA problems, and prepare for CIE-3 and hackathons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
