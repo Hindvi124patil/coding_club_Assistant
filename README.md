@@ -13,6 +13,7 @@ Try Coding Club Assistant here:
 🔗 https://coding-club-assistant-1.ai.studio
 
 Project Links
+
  • Live Application: https://ai.studio/apps/18157b11-893d-4a6f-8da7-ece0a4a8d051
  
  • GitHub Repository: https://github.com/Hindvi124patil/coding_club_Assistant/
